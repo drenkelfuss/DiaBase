@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/home/jojojr/Git/DiaBase/DiaBase/obj/Debug/net8.0/scopedcss/projectbundle/DiaBase.bundle.scp.css",
+      "PackagePath": "staticwebassets/DiaBase.bundle.scp.css"
+    },
+    {
+      "Id": "/home/jojojr/Git/DiaBase/DiaBase/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/home/jojojr/Git/DiaBase/DiaBase/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/jojojr/Git/DiaBase/DiaBase/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/jojojr/Git/DiaBase/DiaBase/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.DiaBase.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.DiaBase.props",
+      "PackagePath": "build\\DiaBase.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.DiaBase.props",
+      "PackagePath": "buildMultiTargeting\\DiaBase.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.DiaBase.props",
+      "PackagePath": "buildTransitive\\DiaBase.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
